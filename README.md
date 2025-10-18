@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" />
   </a>
   
   <h3>
@@ -14,7 +14,6 @@
   </p>
 </div>
 
-
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
@@ -27,7 +26,6 @@
 ---
 
 <h3 align="center">👋 About Me</h3>
-
 <p align="center">
   - 🔭 I’m currently working on <b>a personal portfolio website to showcase my projects.</b> <br/>
   - 🌱 I’m currently learning <b>Python and advanced Java concepts.</b> <br/>
@@ -38,7 +36,6 @@
 ---
 
 <h3 align="center">💻 Technologies and Tools I Use</h3>
-
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -63,7 +60,6 @@
 ---
 
 <h3 align="center">📊 My GitHub Stats</h3>
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -79,9 +75,23 @@
 
 ---
 
+<h3 align="center">🐍 My Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<div align="center">
+  <blockquote>
+    <p><em>"Before software can be reusable it first has to be usable."</em></p>
+    <footer align="right">- Ralph Johnson</footer>
+  </blockquote>
+</div>
+
+---
 
 <h3 align="center">📬 Connect with Me</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/arda-yigit-9996628b" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
