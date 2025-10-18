@@ -82,13 +82,6 @@
 ---
 
 
-<div align="center">
-  <blockquote>
-    <p><em>"Before software can be reusable it first has to be usable."</em></p>
-    <footer align="right">- Ralph Johnson</footer>
-  </blockquote>
-</div>
-
 <h3 align="center">📬 Connect with Me</h3>
 
 <p align="center">
