@@ -36,3 +36,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
 </p>
+
+
+## 📊 GitHub İstatistiklerim
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ygtarda&theme=radical)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
