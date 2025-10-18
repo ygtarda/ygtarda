@@ -13,6 +13,13 @@
   <img src="https://user-images.githubusercontent.com/5389276/140866485-81b1c876-8a8f-4dae-98dc-08c891aaf70a.gif" alt="Coding gif" width="400"/>
 
 </div>
+---
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ygtarda&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 ---
 
@@ -69,12 +76,6 @@
 
 ---
 
-<h3 align="center">🐍 My Contribution Snake</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 <div align="center">
   <blockquote>
