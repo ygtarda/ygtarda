@@ -15,21 +15,7 @@
 </div>
 
 ---
-<div align="center">
-  
-  <h1>
-    <strong>
-      MERN Stack Developer
-    </strong>
-  </h1>
-  
-  <h3>
-    A passionate developer crafting web & mobile experiences
-  </h3>
-  
-  <img src="https://user-images.githubusercontent.com/5389276/140866485-81b1c876-8a8f-4dae-98dc-08c891aaf70a.gif" alt="Coding gif" width="400"/>
 
-</div>
 <h3 align="center">👋 About Me</h3>
 
 <p align="center">
