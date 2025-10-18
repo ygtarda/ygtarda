@@ -9,5 +9,5 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, and modern web design.**
 
 - 📫 How to reach me: **ardayig725@gmail.com*
-- 📫 Bana nasıl ulaşırsın: **mail.adresin@example.com**
+
 - ⚡ Fun fact: **I believe the best debugger is a good night's sleep.**
