@@ -47,6 +47,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ygtarda&theme=radical)](https://git.io/streak-stats)
 
 
+## 📬 Bana Ulaşın
+
+<p align="left">
+<a href="https://linkedin.com/in/arda-yigit-9996628b?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ygtarda" height="30" width="40" /></a>
+<a href="https://twitter.com/ArdaYii40795236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ygtarda" height="30" width="40" /></a>
+<a href="https://instagram.com/aarda_yigitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ygtarda" height="30" width="40" /></a>
+</p>
 
 
 
