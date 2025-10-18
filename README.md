@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Arda 👋
 
-<!--
-**ygtarda/ygtarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **a personal portfolio website to showcase my projects.**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python and advanced Java concepts.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **open-source projects for beginners.**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, and modern web design.**
+
+- 📫 How to reach me: **ardayig725@gmail.com*
+- 📫 Bana nasıl ulaşırsın: **mail.adresin@example.com**
+- ⚡ Fun fact: **I believe the best debugger is a good night's sleep.**
