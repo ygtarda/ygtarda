@@ -1,13 +1,7 @@
 <div align="center">
-  <a href="#">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
   </a>
-  
-  <h1>
-    <strong>
-      Hi there, I'm Arda!
-    </strong>
-  </h1>
   
   <h3>
     A passionate developer crafting modern web experiences.
@@ -19,6 +13,8 @@
     <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
   </p>
 </div>
+
+---
 
 ---
 
