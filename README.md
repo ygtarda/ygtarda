@@ -12,8 +12,12 @@
   
   <img src="https://user-images.githubusercontent.com/5389276/140866485-81b1c876-8a8f-4dae-98dc-08c891aaf70a.gif" alt="Coding gif" width="400"/>
 
-</div>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
+</p>
 ---
+</div>
+
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
