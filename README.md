@@ -17,7 +17,7 @@
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ygtarda&theme=dark&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ygtarda&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
