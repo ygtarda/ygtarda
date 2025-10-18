@@ -15,8 +15,9 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
 </p>
----
 </div>
+
+---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
