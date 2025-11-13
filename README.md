@@ -1,9 +1,5 @@
 <div align="center">
-  <p>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=E0E0E0&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" />
-    </a>
-  </p>
+
   <p>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1bmNyMmtqdzZ6eGE4bXo5c2NiZ3ZvYmg5MTVidjBycjZ1MnIybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" width="400"/>
   </p>
