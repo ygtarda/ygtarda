@@ -1,8 +1,5 @@
 <div align="center">
 
-  <p>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWt1bmNyMmtqdzZ6eGE4bXo5c2NiZ3ZvYmg5MTVidjBycjZ1MnIybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding gif" width="400"/>
-  </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
