@@ -1,7 +1,7 @@
 <div align="center">
-  <p>
-  <h2>👋 Hi, I'm Arda Yiğit</h2>
-  </p>
+  
+  <h2 align="left" >👋 Hi, I'm Arda Yiğit</h2>
+  
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
@@ -9,22 +9,20 @@
 </div>
 
 ---
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ygtarda&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">👋 About Me</h3>
 <p align="center">
   - 🔭 I’m currently working on <b>a personal portfolio website to showcase my projects.</b> <br/>
   - 🌱 I’m currently learning <b>Python and advanced Java concepts.</b> <br/>
   - 👯 I’m looking to collaborate on <b>open-source projects for beginners.</b> <br/>
   - 💬 Ask me about <b>HTML, CSS, JavaScript, and modern web design.</b> <br/>
+</p>
+
+---
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ygtarda&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 ---
