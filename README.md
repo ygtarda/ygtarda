@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-  👋 Hi, I'm Arda Yiğit
+  <h2>👋 Hi, I'm Arda Yiğit</h2>
   </p>
 
   <p>
