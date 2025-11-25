@@ -1,5 +1,7 @@
 <div align="center">
-
+  <p>
+  👋 Hi, I'm Arda Yiğit
+  </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
