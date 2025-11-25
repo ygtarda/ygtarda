@@ -3,14 +3,13 @@
     <h2>👋 Hi, I'm Arda Yiğit</h2>
   </p>
 </div>
-
----
 <h3 align="center">👋 About Me</h3>
 <p align="center">
   - 🔭 I’m currently working on <b>a personal portfolio website to showcase my projects.</b> <br/>
   - 🌱 I’m currently learning <b>Python and advanced Java concepts.</b> <br/>
   - 👯 I’m looking to collaborate on <b>open-source projects for beginners.</b> <br/>
   - 💬 Ask me about <b>HTML, CSS, JavaScript, and modern web design.</b> <br/>
+</br>
       <img src="https://komarev.com/ghpvc/?username=ygtarda&color=brightgreen" alt="Profile views" />
 </p>
 
