@@ -30,12 +30,14 @@
 <br/>
 
 <h3 align="left">📊 GitHub Analytics</h3>
-<p align="left">
-<a href="https://github.com/ygtarda">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=tokyonight"/>
-</a>
-</p>
+<div align="left">
+  <a href="https://github.com/ygtarda">
+    <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="Arda's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ygtarda">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  </a>
+</div>
 
 <h3 align="left">📬 Connect with Me</h3>
 <p align="left">
