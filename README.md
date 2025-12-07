@@ -32,10 +32,10 @@
 <h3 align="left">📊 GitHub Analytics</h3>
 <div align="left">
   <a href="https://github.com/ygtarda">
-    <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=tokyonight&rank_icon=github" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=tokyonight&rank_icon=github" >
   </a>
   <a href="https://github.com/ygtarda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=tokyonight" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=tokyonight" >
   </a>
 </div>
 
