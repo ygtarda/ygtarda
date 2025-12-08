@@ -22,8 +22,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=radical" height="180" alt="ygtarda github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=radical" height="180" alt="ygtarda top languages" />
+  <img src="https://streak-stats.demolab.com?user=ygtarda&theme=radical" alt="ygtarda streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" alt="ygtarda profile details" />
 </div>
 <br/>
 
