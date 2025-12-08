@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Arda Yiğit! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<img width="1584" height="396" alt="Kremrengi Sade Minimalist Sosyal Medya LinkedIn Reklam Bandı" src="https://github.com/user-attachments/assets/63b0c1db-c4b8-4144-b2e4-526319920c30" />
 <h3 align="center">Software Engineer | Java & Python Developer | Web Enthusiast</h3>
 
 <p align="center">
@@ -29,15 +30,6 @@
 
 <br/>
 
-<h3 align="left">📊 GitHub Analytics</h3>
-<div align="left">
-  <a href="https://github.com/ygtarda">
-    <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=tokyonight&rank_icon=github" >
-  </a>
-  <a href="https://github.com/ygtarda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=tokyonight" >
-  </a>
-</div>
 
 
 <h3 align="left">📬 Connect with Me</h3>
