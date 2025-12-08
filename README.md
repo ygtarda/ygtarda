@@ -22,7 +22,7 @@
 <br/>
 <hr/>
 
-### ⚡ Technologies I Know
+### 🛠️ Languages & Tools
 
 * **Programming Languages:** Python, JavaScript (ES6+), Java, C, C#, PHP
 * **Web Technologies:** React, HTML5, CSS3
@@ -34,8 +34,6 @@
 <br/>
 <hr/>
 
-
-<br/>
 
 <h3 align="left">📬 Connect with Me</h3>
 <p align="left">
