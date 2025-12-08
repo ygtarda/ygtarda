@@ -9,10 +9,10 @@
 <br/>
 
 <p align="center">
- 🔭 Currently working on a <b>Personal Portfolio Website</b>.<br>
- 🌱 Learning <b>Advanced Java & Python concepts</b>.<br>
- 👯 Open to collaborate on <b>Beginner Friendly Open-Source Projects</b>.<br>
- 💬 Ask me about <b>Modern Web Design (HTML/CSS/JS)</b>.
+ * 🔭 Currently working on a <b>Personal Portfolio Website</b>.
+ * 🌱 Learning <b>Advanced Java & Python concepts</b>.
+ * 👯 Open to collaborate on <b>Beginner Friendly Open-Source Projects</b>.
+ * 💬 Ask me about <b>Modern Web Design (HTML/CSS/JS)</b>.
 </p>
 
 <br/>
