@@ -22,10 +22,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=radical" height="180" alt="ygtarda github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=radical" height="180" alt="ygtarda top languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=radical" height="180" alt="ygtarda github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=radical" height="180" alt="ygtarda top languages" />
 </div>
 <br/>
 
