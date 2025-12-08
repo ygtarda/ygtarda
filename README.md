@@ -34,24 +34,12 @@
 <br/>
 <hr/>
 
-### 📊 My GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ygtarda&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygtarda&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
 
 <br/>
 
-<h3 align="center">📬 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/arda-yigit-9996628b" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/aarda_yigitt" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:ardayig725@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<h3 align="left">📬 Connect with Me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arda-yigit-9996628b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arda-yigit" height="30" width="40" /></a>
+<a href="https://instagram.com/aarda_yigitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarda_yigitt" height="30" width="40" /></a>
+<a href="mailto:ardayig725@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
 </p>
