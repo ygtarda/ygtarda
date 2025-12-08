@@ -20,14 +20,12 @@
 </p>
 
 <br/>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" alt="ygtarda stats" />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" alt="ygtarda languages" />
-
+  
   <br/>
-
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" alt="ygtarda profile details" />
 </div>
 <br/>
