@@ -13,7 +13,7 @@
 </p>
 
 <br/>
-</hr>
+<hr/>
 <p align="center">
   🔭 Currently working on a <b>Personal Portfolio Website</b>.<br>
   🌱 Learning <b>Advanced Java & Python concepts</b>.<br>
