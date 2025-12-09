@@ -4,7 +4,7 @@
   <img width="100%" src="https://github.com/user-attachments/assets/63b0c1db-c4b8-4144-b2e4-526319920c30" alt="Banner" />
 </p>
 
-</hr>
+
 
 <h3 align="center">Software Engineer | Java & Python Developer | Web Enthusiast</h3>
 
@@ -13,7 +13,7 @@
 </p>
 
 <br/>
-
+</hr>
 <p align="center">
   🔭 Currently working on a <b>Personal Portfolio Website</b>.<br>
   🌱 Learning <b>Advanced Java & Python concepts</b>.<br>
