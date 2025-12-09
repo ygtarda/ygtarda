@@ -5,7 +5,7 @@
 </p>
 
 
-
+<hr/>
 <h3 align="center">Software Engineer | Java & Python Developer | Web Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <br/>
-<hr/>
+
 <p align="center">
   🔭 Currently working on a <b>Personal Portfolio Website</b>.<br>
   🌱 Learning <b>Advanced Java & Python concepts</b>.<br>
