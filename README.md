@@ -22,19 +22,23 @@
 
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" alt="ygtarda stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" alt="ygtarda languages" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" alt="ygtarda profile details" />
+  <table>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" width="490" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" width="490" /></td>
+    </tr>
+  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" />
 </div>
 <br/>
 
 <!-- YILAN ANIMASYONU BURAYA EKLENDI -->
-<!-- Özel Tasarım Yılan Animasyonu -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake-radical.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/snake-light.svg" />
+    <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/snake-dark.svg" />
+  </picture>
 </div>
 <br/>
 
