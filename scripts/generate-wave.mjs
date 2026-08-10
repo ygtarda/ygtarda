@@ -117,7 +117,7 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   /* DÜZELTME 3: Keyframe aralıklarını başa çekerek bekleme süresini doğal hale getirdik */
   @keyframes wipeOut {
     0%, 5%, 80%, 100% { opacity: 1; }
-    10%, 40% { opacity: 0.08; }
+    10%, 80% { opacity: 0.08; }
   }
   @keyframes wipeIn {
     0%, 20%, 100% { opacity: 0; transform: scale(1); }
