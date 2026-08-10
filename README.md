@@ -37,9 +37,9 @@
 <!-- YILAN ANIMASYONU BURAYA EKLENDI -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/snake-light.svg" />
-    <img alt="GitHub Contribution Snake" width="100%" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/contrib-wave-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/contrib-wave-light.svg" />
+    <img alt="Contribution wave" width="100%" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/contrib-wave-dark.svg" />
   </picture>
 </div>
 <br/>
