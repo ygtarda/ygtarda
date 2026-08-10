@@ -66,8 +66,8 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   const height = 7 * step - gap;
   
   // Döngü süresini optimize ettik, 4 saniyede bir temiz bir akış olacak
-  const cycle = 4;
-
+  const cycle = 6;
+  
   let cells = "";
   weeks.forEach((week, wi) => {
     week.contributionDays.forEach((day, di) => {
@@ -77,7 +77,7 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
       const fill = basePalette[level];
 
       // DÜZELTME 1: Kusursuz diyagonal (çapraz) gecikme hesabı
-      const delay = ((wi + di) * 0.05).toFixed(3);
+      const delay = ((wi + di) * 0.07).toFixed(3);
 
       // DÜZELTME 2: <g> grubuna ana gecikmeyi verdik, alt elemanlar bunu inherit (miras) alacak
       cells += `<g style="animation-delay:${delay}s">
@@ -117,7 +117,7 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   /* DÜZELTME 3: Keyframe aralıklarını başa çekerek bekleme süresini doğal hale getirdik */
   @keyframes wipeOut {
     0%, 5%, 80%, 100% { opacity: 1; }
-    10%, 65% { opacity: 0.05; }
+    10%, 60% { opacity: 0.08; }
   }
   @keyframes wipeIn {
     0%, 20%, 100% { opacity: 0; transform: scale(1); }
