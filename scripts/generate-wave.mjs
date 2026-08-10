@@ -58,6 +58,7 @@ function levelFor(count) {
   return 4;
 }
 
+
 function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   const cell = 11;
   const gap = 3;
@@ -65,9 +66,8 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   const width = weeks.length * step - gap;
   const height = 7 * step - gap;
   
-  // Döngü süresini optimize ettik, 4 saniyede bir temiz bir akış olacak
-  const cycle = 6;
-  
+  const cycle = 6; // Senin ayarladığın yavaşlatılmış döngü süresi
+
   let cells = "";
   weeks.forEach((week, wi) => {
     week.contributionDays.forEach((day, di) => {
@@ -76,13 +76,13 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
       const level = levelFor(day.contributionCount);
       const fill = basePalette[level];
 
-      // DÜZELTME 1: Kusursuz diyagonal (çapraz) gecikme hesabı
+      // Senin ayarladığın yavaşlatılmış gecikme süresi
       const delay = ((wi + di) * 0.07).toFixed(3);
 
-      // DÜZELTME 2: <g> grubuna ana gecikmeyi verdik, alt elemanlar bunu inherit (miras) alacak
-      cells += `<g style="animation-delay:${delay}s">
-        <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${fill}" class="base"/>
-        <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="transform-origin:${x + cell / 2}px ${y + cell / 2}px"/>
+      // KRİTİK: Her iki kutuya da merkezden büyüyüp küçülmeleri için transform-origin eklendi
+      cells += `<g>
+        <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${fill}" class="base" style="animation-delay:${delay}s; transform-origin:${x + cell / 2}px ${y + cell / 2}px"/>
+        <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:${delay}s; transform-origin:${x + cell / 2}px ${y + cell / 2}px"/>
       </g>`;
     });
   });
@@ -106,22 +106,22 @@ function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   .base {
     opacity: 1;
     animation: wipeOut ${cycle}s ease-in-out infinite;
-    animation-delay: inherit; /* Gruptaki gecikmeyi alır */
   }
   .wave {
     opacity: 0;
     animation: wipeIn ${cycle}s ease-in-out infinite;
-    animation-delay: inherit; /* KRİTİK: Dalganın da aynı diyagonal sırada yanmasını sağlar */
   }
   
-  /* DÜZELTME 3: Keyframe aralıklarını başa çekerek bekleme süresini doğal hale getirdik */
+  /* GERÇEKÇİ DALGA ETKİSİ - ANA KUTU: Kutu kararınca %75 boyutuna küçülür (içe çöker) */
   @keyframes wipeOut {
-    0%, 5%, 80%, 100% { opacity: 1; }
-    10%, 40% { opacity: 0.08; }
+    0%, 5%, 80%, 100% { opacity: 1; transform: scale(1); }
+    10%, 60% { opacity: 0.08; transform: scale(0.75); } 
   }
+  
+  /* GERÇEKÇİ DALGA ETKİSİ - MAVİ PARLAMA: Dalga vurduğunda çok daha fazla şişer (scale 1.6) */
   @keyframes wipeIn {
-    0%, 20%, 100% { opacity: 0; transform: scale(1); }
-    10% { opacity: 1; transform: scale(1.32); }
+    0%, 25%, 100% { opacity: 0; transform: scale(0.8); }
+    10% { opacity: 1; transform: scale(1.6); }
   }
 </style>
 ${cells}
