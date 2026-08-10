@@ -56,8 +56,8 @@
 * **Key Concepts:** Object-Oriented Programming (OOP), Clean Code Principles, Algorithms & Data Structures
 
 <br/>
-<hr/>
 
+<hr/>
 
 <h3 align="left">📬 Connect with Me</h3>
 <p align="left">
