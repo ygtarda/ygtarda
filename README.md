@@ -27,8 +27,6 @@
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" width="490" /></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" width="490" /></td>
     </tr>
-  </table>
-  <table>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" /></td>
   </table>
 </div>
