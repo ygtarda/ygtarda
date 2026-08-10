@@ -17,10 +17,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Burası animasyonun renklendirildiği bölüm!
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#0e75b6
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#fe428e&color_dots=#161b22,#411a43,#712479,#b43ebd,#e85bf0
+            dist/github-contribution-grid-snake-radical.svg?color_snake=#fe428e&color_dots=#1a1b27,#2f334d,#2f334d,#2f334d,#fe428e&palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
