@@ -50,7 +50,6 @@ async function fetchContributions() {
   return json.data.user.contributionsCollection.contributionCalendar.weeks;
 }
 
-// GitHub'ın kendi eşiklerine yakın bir seviyelendirme (0-4)
 function levelFor(count) {
   if (count === 0) return 0;
   if (count <= 3) return 1;
@@ -59,12 +58,13 @@ function levelFor(count) {
   return 4;
 }
 
-function buildSvg(weeks, { basePalette, waveColor, name }) {
+function buildSvg(weeks, { basePalette, gradFrom, gradTo, name }) {
   const cell = 11;
   const gap = 3;
   const step = cell + gap;
   const width = weeks.length * step - gap;
   const height = 7 * step - gap;
+  const cycle = 5.2;
 
   let cells = "";
   weeks.forEach((week, wi) => {
@@ -73,20 +73,54 @@ function buildSvg(weeks, { basePalette, waveColor, name }) {
       const y = di * step;
       const level = levelFor(day.contributionCount);
       const fill = basePalette[level];
-      const delay = (wi * 0.045).toFixed(3);
 
-      cells += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${fill}"/>`;
-      cells += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2" fill="${waveColor}" class="wave" style="animation-delay:${delay}s"/>`;
+      const rawDelay = wi * 0.05 + di * 0.09;
+      const delay = (rawDelay % (cycle - 1.2)).toFixed(3);
+      const jitter = (Math.random() * 0.15).toFixed(3);
+
+      cells += `<g style="animation-delay:${delay}s">
+        <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${fill}" class="base"/>
+        <rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:${jitter}s;transform-origin:${x + cell / 2}px ${y + cell / 2}px"/>
+      </g>`;
     });
   });
 
   return `<svg width="100%" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="${name} contribution wave">
+<defs>
+  <radialGradient id="waveGrad" cx="50%" cy="50%" r="65%">
+    <stop offset="0%" stop-color="${gradFrom}"/>
+    <stop offset="100%" stop-color="${gradTo}"/>
+  </radialGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="1.3" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
 <style>
-.wave { opacity: 0; animation: pulse 4.5s ease-in-out infinite; }
-@keyframes pulse {
-  0%, 88%, 100% { opacity: 0; }
-  94% { opacity: 0.65; }
-}
+  g { animation: none; }
+  .base {
+    opacity: 1;
+    animation: wipeOut ${cycle}s ease-in-out infinite;
+    animation-delay: inherit;
+  }
+  .wave {
+    opacity: 0;
+    animation: wipeIn ${cycle}s ease-in-out infinite;
+  }
+  @keyframes wipeOut {
+    0%, 78%, 100% { opacity: 1; }
+    86% { opacity: 0.08; }
+    92% { opacity: 0.08; }
+  }
+  @keyframes wipeIn {
+    0%, 78%, 100% { opacity: 0; transform: scale(1); }
+    84% { opacity: 1; transform: scale(1.32); }
+    88% { opacity: 1; transform: scale(1); }
+    93% { opacity: 0; transform: scale(1); }
+  }
 </style>
 ${cells}
 </svg>`;
@@ -95,12 +129,14 @@ ${cells}
 const PALETTES = {
   dark: {
     basePalette: ["#161b22", "#301e36", "#5b2552", "#8c2d6f", "#c23a86"],
-    waveColor: "#39d3f0",
+    gradFrom: "#eafdff",
+    gradTo: "#39d3f0",
     name: "dark",
   },
   light: {
     basePalette: ["#ebedf0", "#f5c2dc", "#e888b8", "#d95a96", "#c23a86"],
-    waveColor: "#0969da",
+    gradFrom: "#ffffff",
+    gradTo: "#0969da",
     name: "light",
   },
 };
@@ -121,4 +157,3 @@ main().catch((err) => {
   console.error(err);
   process.exit(1);
 });
-
