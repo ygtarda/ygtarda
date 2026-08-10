@@ -4,7 +4,6 @@
   <img width="100%" src="https://github.com/user-attachments/assets/63b0c1db-c4b8-4144-b2e4-526319920c30" alt="Banner" />
 </p>
 
-
 <hr/>
 <h3 align="center">Software Engineer | Java & Python Developer | Web Enthusiast</h3>
 
@@ -29,6 +28,16 @@
   <br/>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" alt="ygtarda profile details" />
+</div>
+<br/>
+
+<!-- YILAN ANIMASYONU BURAYA EKLENDI -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 <br/>
 
