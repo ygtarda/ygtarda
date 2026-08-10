@@ -32,13 +32,9 @@
 <br/>
 
 <!-- YILAN ANIMASYONU BURAYA EKLENDI -->
+<!-- Özel Tasarım Yılan Animasyonu -->
 <div align="center">
-  <h3>My GitHub Contribution Snake (Radical Theme)</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake-radical.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/ygtarda/ygtarda/output/github-contribution-grid-snake-radical.svg" alt="GitHub Contribution Snake" />
 </div>
 <br/>
 
