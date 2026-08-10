@@ -31,9 +31,6 @@
   <table>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" /></td>
   </table>
-  <table>
-    <td><img src="https://raw.githubusercontent.com/ygtarda/ygtarda/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" /></td>
-  </table>
 </div>
 <br/>
 
