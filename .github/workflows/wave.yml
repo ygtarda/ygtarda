@@ -1,1 +1,36 @@
+name: Generate Contribution Wave
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate wave SVGs
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: node scripts/generate-wave.mjs
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
 
