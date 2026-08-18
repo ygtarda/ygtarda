@@ -1131,7 +1131,10 @@
         <rect x="728" y="0" width="11" height="11" rx="2.5" fill="#ebedf0" class="base" style="animation-delay:3.640s; transform-origin:733.5px 5.5px"/>
         <rect x="728" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:733.5px 5.5px"/>
       </g><g>
-        <rect x="728" y="14" width="11" height="11" rx="2.5" fill="#e888b8" class="base" style="animation-delay:3.710s; transform-origin:733.5px 19.5px"/>
+        <rect x="728" y="14" width="11" height="11" rx="2.5" fill="#d95a96" class="base" style="animation-delay:3.710s; transform-origin:733.5px 19.5px"/>
         <rect x="728" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.710s; transform-origin:733.5px 19.5px"/>
+      </g><g>
+        <rect x="728" y="28" width="11" height="11" rx="2.5" fill="#ebedf0" class="base" style="animation-delay:3.780s; transform-origin:733.5px 33.5px"/>
+        <rect x="728" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.780s; transform-origin:733.5px 33.5px"/>
       </g>
 </svg>
