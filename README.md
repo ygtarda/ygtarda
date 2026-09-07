@@ -20,18 +20,19 @@
   💬 Ask me about <b>Modern Web Design (HTML/CSS/JS)</b>.
 </p>
 
+<br/>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" width="490" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" width="490" /></td>
-        <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" />
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" width="490" /></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" width="490" /></td>
+    </tr>
+  </table>
+  <table>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" /></td>
+  </table>
 </div>
+<br/>
 
 <!-- YILAN ANIMASYONU BURAYA EKLENDI -->
 <div align="center">
