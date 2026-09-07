@@ -23,11 +23,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" width="490" /></td>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" width="490" /></td>
-    </tr>
-    <tr>
-      <td colspan="1" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" /></td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygtarda&theme=radical" width="490" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygtarda&theme=radical" width="490" />
+        <br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ygtarda&theme=radical" width="1000" />
+      </td>
     </tr>
   </table>
 </div>
