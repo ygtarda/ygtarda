@@ -987,16 +987,16 @@
         <rect x="630" y="14" width="11" height="11" rx="2.5" fill="#ebedf0" class="base" style="animation-delay:3.220s; transform-origin:635.5px 19.5px"/>
         <rect x="630" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.220s; transform-origin:635.5px 19.5px"/>
       </g><g>
-        <rect x="630" y="28" width="11" height="11" rx="2.5" fill="#d95a96" class="base" style="animation-delay:3.290s; transform-origin:635.5px 33.5px"/>
+        <rect x="630" y="28" width="11" height="11" rx="2.5" fill="#ebedf0" class="base" style="animation-delay:3.290s; transform-origin:635.5px 33.5px"/>
         <rect x="630" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.290s; transform-origin:635.5px 33.5px"/>
       </g><g>
-        <rect x="630" y="42" width="11" height="11" rx="2.5" fill="#e888b8" class="base" style="animation-delay:3.360s; transform-origin:635.5px 47.5px"/>
+        <rect x="630" y="42" width="11" height="11" rx="2.5" fill="#f5c2dc" class="base" style="animation-delay:3.360s; transform-origin:635.5px 47.5px"/>
         <rect x="630" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.360s; transform-origin:635.5px 47.5px"/>
       </g><g>
-        <rect x="630" y="56" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.430s; transform-origin:635.5px 61.5px"/>
+        <rect x="630" y="56" width="11" height="11" rx="2.5" fill="#e888b8" class="base" style="animation-delay:3.430s; transform-origin:635.5px 61.5px"/>
         <rect x="630" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:635.5px 61.5px"/>
       </g><g>
-        <rect x="630" y="70" width="11" height="11" rx="2.5" fill="#e888b8" class="base" style="animation-delay:3.500s; transform-origin:635.5px 75.5px"/>
+        <rect x="630" y="70" width="11" height="11" rx="2.5" fill="#f5c2dc" class="base" style="animation-delay:3.500s; transform-origin:635.5px 75.5px"/>
         <rect x="630" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:635.5px 75.5px"/>
       </g><g>
         <rect x="630" y="84" width="11" height="11" rx="2.5" fill="#ebedf0" class="base" style="animation-delay:3.570s; transform-origin:635.5px 89.5px"/>
