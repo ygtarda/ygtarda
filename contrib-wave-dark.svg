@@ -75,7 +75,7 @@
         <rect x="14" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.420s; transform-origin:19.5px 75.5px"/>
         <rect x="14" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.420s; transform-origin:19.5px 75.5px"/>
       </g><g>
-        <rect x="14" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.490s; transform-origin:19.5px 89.5px"/>
+        <rect x="14" y="84" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.490s; transform-origin:19.5px 89.5px"/>
         <rect x="14" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.490s; transform-origin:19.5px 89.5px"/>
       </g><g>
         <rect x="28" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.140s; transform-origin:33.5px 5.5px"/>
@@ -96,10 +96,10 @@
         <rect x="28" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.490s; transform-origin:33.5px 75.5px"/>
         <rect x="28" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.490s; transform-origin:33.5px 75.5px"/>
       </g><g>
-        <rect x="28" y="84" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.560s; transform-origin:33.5px 89.5px"/>
+        <rect x="28" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.560s; transform-origin:33.5px 89.5px"/>
         <rect x="28" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.560s; transform-origin:33.5px 89.5px"/>
       </g><g>
-        <rect x="42" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.210s; transform-origin:47.5px 5.5px"/>
+        <rect x="42" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.210s; transform-origin:47.5px 5.5px"/>
         <rect x="42" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.210s; transform-origin:47.5px 5.5px"/>
       </g><g>
         <rect x="42" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.280s; transform-origin:47.5px 19.5px"/>
@@ -117,10 +117,10 @@
         <rect x="42" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.560s; transform-origin:47.5px 75.5px"/>
         <rect x="42" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.560s; transform-origin:47.5px 75.5px"/>
       </g><g>
-        <rect x="42" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.630s; transform-origin:47.5px 89.5px"/>
+        <rect x="42" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.630s; transform-origin:47.5px 89.5px"/>
         <rect x="42" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.630s; transform-origin:47.5px 89.5px"/>
       </g><g>
-        <rect x="56" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.280s; transform-origin:61.5px 5.5px"/>
+        <rect x="56" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.280s; transform-origin:61.5px 5.5px"/>
         <rect x="56" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.280s; transform-origin:61.5px 5.5px"/>
       </g><g>
         <rect x="56" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.350s; transform-origin:61.5px 19.5px"/>
@@ -150,13 +150,13 @@
         <rect x="70" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.490s; transform-origin:75.5px 33.5px"/>
         <rect x="70" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.490s; transform-origin:75.5px 33.5px"/>
       </g><g>
-        <rect x="70" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.560s; transform-origin:75.5px 47.5px"/>
+        <rect x="70" y="42" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.560s; transform-origin:75.5px 47.5px"/>
         <rect x="70" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.560s; transform-origin:75.5px 47.5px"/>
       </g><g>
         <rect x="70" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.630s; transform-origin:75.5px 61.5px"/>
         <rect x="70" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.630s; transform-origin:75.5px 61.5px"/>
       </g><g>
-        <rect x="70" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.700s; transform-origin:75.5px 75.5px"/>
+        <rect x="70" y="70" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.700s; transform-origin:75.5px 75.5px"/>
         <rect x="70" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.700s; transform-origin:75.5px 75.5px"/>
       </g><g>
         <rect x="70" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.770s; transform-origin:75.5px 89.5px"/>
@@ -171,13 +171,13 @@
         <rect x="84" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.560s; transform-origin:89.5px 33.5px"/>
         <rect x="84" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.560s; transform-origin:89.5px 33.5px"/>
       </g><g>
-        <rect x="84" y="42" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.630s; transform-origin:89.5px 47.5px"/>
+        <rect x="84" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.630s; transform-origin:89.5px 47.5px"/>
         <rect x="84" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.630s; transform-origin:89.5px 47.5px"/>
       </g><g>
         <rect x="84" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.700s; transform-origin:89.5px 61.5px"/>
         <rect x="84" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.700s; transform-origin:89.5px 61.5px"/>
       </g><g>
-        <rect x="84" y="70" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.770s; transform-origin:89.5px 75.5px"/>
+        <rect x="84" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.770s; transform-origin:89.5px 75.5px"/>
         <rect x="84" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.770s; transform-origin:89.5px 75.5px"/>
       </g><g>
         <rect x="84" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.840s; transform-origin:89.5px 89.5px"/>
@@ -189,7 +189,7 @@
         <rect x="98" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.560s; transform-origin:103.5px 19.5px"/>
         <rect x="98" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.560s; transform-origin:103.5px 19.5px"/>
       </g><g>
-        <rect x="98" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.630s; transform-origin:103.5px 33.5px"/>
+        <rect x="98" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.630s; transform-origin:103.5px 33.5px"/>
         <rect x="98" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.630s; transform-origin:103.5px 33.5px"/>
       </g><g>
         <rect x="98" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.700s; transform-origin:103.5px 47.5px"/>
@@ -207,16 +207,16 @@
         <rect x="112" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.560s; transform-origin:117.5px 5.5px"/>
         <rect x="112" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.560s; transform-origin:117.5px 5.5px"/>
       </g><g>
-        <rect x="112" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.630s; transform-origin:117.5px 19.5px"/>
+        <rect x="112" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.630s; transform-origin:117.5px 19.5px"/>
         <rect x="112" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.630s; transform-origin:117.5px 19.5px"/>
       </g><g>
-        <rect x="112" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.700s; transform-origin:117.5px 33.5px"/>
+        <rect x="112" y="28" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.700s; transform-origin:117.5px 33.5px"/>
         <rect x="112" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.700s; transform-origin:117.5px 33.5px"/>
       </g><g>
-        <rect x="112" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.770s; transform-origin:117.5px 47.5px"/>
+        <rect x="112" y="42" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.770s; transform-origin:117.5px 47.5px"/>
         <rect x="112" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.770s; transform-origin:117.5px 47.5px"/>
       </g><g>
-        <rect x="112" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.840s; transform-origin:117.5px 61.5px"/>
+        <rect x="112" y="56" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:0.840s; transform-origin:117.5px 61.5px"/>
         <rect x="112" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.840s; transform-origin:117.5px 61.5px"/>
       </g><g>
         <rect x="112" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.910s; transform-origin:117.5px 75.5px"/>
@@ -243,40 +243,40 @@
         <rect x="126" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.980s; transform-origin:131.5px 75.5px"/>
         <rect x="126" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.980s; transform-origin:131.5px 75.5px"/>
       </g><g>
-        <rect x="126" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.050s; transform-origin:131.5px 89.5px"/>
+        <rect x="126" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.050s; transform-origin:131.5px 89.5px"/>
         <rect x="126" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.050s; transform-origin:131.5px 89.5px"/>
       </g><g>
-        <rect x="140" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.700s; transform-origin:145.5px 5.5px"/>
+        <rect x="140" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.700s; transform-origin:145.5px 5.5px"/>
         <rect x="140" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.700s; transform-origin:145.5px 5.5px"/>
       </g><g>
-        <rect x="140" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.770s; transform-origin:145.5px 19.5px"/>
+        <rect x="140" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.770s; transform-origin:145.5px 19.5px"/>
         <rect x="140" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.770s; transform-origin:145.5px 19.5px"/>
       </g><g>
-        <rect x="140" y="28" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.840s; transform-origin:145.5px 33.5px"/>
+        <rect x="140" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.840s; transform-origin:145.5px 33.5px"/>
         <rect x="140" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.840s; transform-origin:145.5px 33.5px"/>
       </g><g>
-        <rect x="140" y="42" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.910s; transform-origin:145.5px 47.5px"/>
+        <rect x="140" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.910s; transform-origin:145.5px 47.5px"/>
         <rect x="140" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.910s; transform-origin:145.5px 47.5px"/>
       </g><g>
-        <rect x="140" y="56" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:0.980s; transform-origin:145.5px 61.5px"/>
+        <rect x="140" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.980s; transform-origin:145.5px 61.5px"/>
         <rect x="140" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.980s; transform-origin:145.5px 61.5px"/>
       </g><g>
         <rect x="140" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.050s; transform-origin:145.5px 75.5px"/>
         <rect x="140" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.050s; transform-origin:145.5px 75.5px"/>
       </g><g>
-        <rect x="140" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.120s; transform-origin:145.5px 89.5px"/>
+        <rect x="140" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.120s; transform-origin:145.5px 89.5px"/>
         <rect x="140" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.120s; transform-origin:145.5px 89.5px"/>
       </g><g>
-        <rect x="154" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.770s; transform-origin:159.5px 5.5px"/>
+        <rect x="154" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.770s; transform-origin:159.5px 5.5px"/>
         <rect x="154" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.770s; transform-origin:159.5px 5.5px"/>
       </g><g>
-        <rect x="154" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.840s; transform-origin:159.5px 19.5px"/>
+        <rect x="154" y="14" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.840s; transform-origin:159.5px 19.5px"/>
         <rect x="154" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.840s; transform-origin:159.5px 19.5px"/>
       </g><g>
         <rect x="154" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.910s; transform-origin:159.5px 33.5px"/>
         <rect x="154" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.910s; transform-origin:159.5px 33.5px"/>
       </g><g>
-        <rect x="154" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.980s; transform-origin:159.5px 47.5px"/>
+        <rect x="154" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:0.980s; transform-origin:159.5px 47.5px"/>
         <rect x="154" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.980s; transform-origin:159.5px 47.5px"/>
       </g><g>
         <rect x="154" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.050s; transform-origin:159.5px 61.5px"/>
@@ -291,19 +291,19 @@
         <rect x="168" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.840s; transform-origin:173.5px 5.5px"/>
         <rect x="168" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.840s; transform-origin:173.5px 5.5px"/>
       </g><g>
-        <rect x="168" y="14" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:0.910s; transform-origin:173.5px 19.5px"/>
+        <rect x="168" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.910s; transform-origin:173.5px 19.5px"/>
         <rect x="168" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.910s; transform-origin:173.5px 19.5px"/>
       </g><g>
         <rect x="168" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.980s; transform-origin:173.5px 33.5px"/>
         <rect x="168" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.980s; transform-origin:173.5px 33.5px"/>
       </g><g>
-        <rect x="168" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.050s; transform-origin:173.5px 47.5px"/>
+        <rect x="168" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.050s; transform-origin:173.5px 47.5px"/>
         <rect x="168" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.050s; transform-origin:173.5px 47.5px"/>
       </g><g>
         <rect x="168" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.120s; transform-origin:173.5px 61.5px"/>
         <rect x="168" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.120s; transform-origin:173.5px 61.5px"/>
       </g><g>
-        <rect x="168" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.190s; transform-origin:173.5px 75.5px"/>
+        <rect x="168" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.190s; transform-origin:173.5px 75.5px"/>
         <rect x="168" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.190s; transform-origin:173.5px 75.5px"/>
       </g><g>
         <rect x="168" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.260s; transform-origin:173.5px 89.5px"/>
@@ -324,13 +324,13 @@
         <rect x="182" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.190s; transform-origin:187.5px 61.5px"/>
         <rect x="182" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.190s; transform-origin:187.5px 61.5px"/>
       </g><g>
-        <rect x="182" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.260s; transform-origin:187.5px 75.5px"/>
+        <rect x="182" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.260s; transform-origin:187.5px 75.5px"/>
         <rect x="182" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.260s; transform-origin:187.5px 75.5px"/>
       </g><g>
-        <rect x="182" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.330s; transform-origin:187.5px 89.5px"/>
+        <rect x="182" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.330s; transform-origin:187.5px 89.5px"/>
         <rect x="182" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:187.5px 89.5px"/>
       </g><g>
-        <rect x="196" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:0.980s; transform-origin:201.5px 5.5px"/>
+        <rect x="196" y="0" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:0.980s; transform-origin:201.5px 5.5px"/>
         <rect x="196" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:0.980s; transform-origin:201.5px 5.5px"/>
       </g><g>
         <rect x="196" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.050s; transform-origin:201.5px 19.5px"/>
@@ -342,31 +342,31 @@
         <rect x="196" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.190s; transform-origin:201.5px 47.5px"/>
         <rect x="196" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.190s; transform-origin:201.5px 47.5px"/>
       </g><g>
-        <rect x="196" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.260s; transform-origin:201.5px 61.5px"/>
+        <rect x="196" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.260s; transform-origin:201.5px 61.5px"/>
         <rect x="196" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.260s; transform-origin:201.5px 61.5px"/>
       </g><g>
-        <rect x="196" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.330s; transform-origin:201.5px 75.5px"/>
+        <rect x="196" y="70" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:1.330s; transform-origin:201.5px 75.5px"/>
         <rect x="196" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:201.5px 75.5px"/>
       </g><g>
-        <rect x="196" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.400s; transform-origin:201.5px 89.5px"/>
+        <rect x="196" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.400s; transform-origin:201.5px 89.5px"/>
         <rect x="196" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.400s; transform-origin:201.5px 89.5px"/>
       </g><g>
-        <rect x="210" y="0" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:1.050s; transform-origin:215.5px 5.5px"/>
+        <rect x="210" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.050s; transform-origin:215.5px 5.5px"/>
         <rect x="210" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.050s; transform-origin:215.5px 5.5px"/>
       </g><g>
         <rect x="210" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.120s; transform-origin:215.5px 19.5px"/>
         <rect x="210" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.120s; transform-origin:215.5px 19.5px"/>
       </g><g>
-        <rect x="210" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.190s; transform-origin:215.5px 33.5px"/>
+        <rect x="210" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.190s; transform-origin:215.5px 33.5px"/>
         <rect x="210" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.190s; transform-origin:215.5px 33.5px"/>
       </g><g>
-        <rect x="210" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.260s; transform-origin:215.5px 47.5px"/>
+        <rect x="210" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.260s; transform-origin:215.5px 47.5px"/>
         <rect x="210" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.260s; transform-origin:215.5px 47.5px"/>
       </g><g>
         <rect x="210" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.330s; transform-origin:215.5px 61.5px"/>
         <rect x="210" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:215.5px 61.5px"/>
       </g><g>
-        <rect x="210" y="70" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:1.400s; transform-origin:215.5px 75.5px"/>
+        <rect x="210" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.400s; transform-origin:215.5px 75.5px"/>
         <rect x="210" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.400s; transform-origin:215.5px 75.5px"/>
       </g><g>
         <rect x="210" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.470s; transform-origin:215.5px 89.5px"/>
@@ -378,28 +378,28 @@
         <rect x="224" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.190s; transform-origin:229.5px 19.5px"/>
         <rect x="224" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.190s; transform-origin:229.5px 19.5px"/>
       </g><g>
-        <rect x="224" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.260s; transform-origin:229.5px 33.5px"/>
+        <rect x="224" y="28" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:1.260s; transform-origin:229.5px 33.5px"/>
         <rect x="224" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.260s; transform-origin:229.5px 33.5px"/>
       </g><g>
         <rect x="224" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.330s; transform-origin:229.5px 47.5px"/>
         <rect x="224" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:229.5px 47.5px"/>
       </g><g>
-        <rect x="224" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.400s; transform-origin:229.5px 61.5px"/>
+        <rect x="224" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.400s; transform-origin:229.5px 61.5px"/>
         <rect x="224" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.400s; transform-origin:229.5px 61.5px"/>
       </g><g>
-        <rect x="224" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.470s; transform-origin:229.5px 75.5px"/>
+        <rect x="224" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.470s; transform-origin:229.5px 75.5px"/>
         <rect x="224" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.470s; transform-origin:229.5px 75.5px"/>
       </g><g>
         <rect x="224" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.540s; transform-origin:229.5px 89.5px"/>
         <rect x="224" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.540s; transform-origin:229.5px 89.5px"/>
       </g><g>
-        <rect x="238" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.190s; transform-origin:243.5px 5.5px"/>
+        <rect x="238" y="0" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:1.190s; transform-origin:243.5px 5.5px"/>
         <rect x="238" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.190s; transform-origin:243.5px 5.5px"/>
       </g><g>
         <rect x="238" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.260s; transform-origin:243.5px 19.5px"/>
         <rect x="238" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.260s; transform-origin:243.5px 19.5px"/>
       </g><g>
-        <rect x="238" y="28" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:1.330s; transform-origin:243.5px 33.5px"/>
+        <rect x="238" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.330s; transform-origin:243.5px 33.5px"/>
         <rect x="238" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:243.5px 33.5px"/>
       </g><g>
         <rect x="238" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.400s; transform-origin:243.5px 47.5px"/>
@@ -411,19 +411,19 @@
         <rect x="238" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.540s; transform-origin:243.5px 75.5px"/>
         <rect x="238" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.540s; transform-origin:243.5px 75.5px"/>
       </g><g>
-        <rect x="238" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.610s; transform-origin:243.5px 89.5px"/>
+        <rect x="238" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.610s; transform-origin:243.5px 89.5px"/>
         <rect x="238" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.610s; transform-origin:243.5px 89.5px"/>
       </g><g>
-        <rect x="252" y="0" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:1.260s; transform-origin:257.5px 5.5px"/>
+        <rect x="252" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.260s; transform-origin:257.5px 5.5px"/>
         <rect x="252" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.260s; transform-origin:257.5px 5.5px"/>
       </g><g>
         <rect x="252" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.330s; transform-origin:257.5px 19.5px"/>
         <rect x="252" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:257.5px 19.5px"/>
       </g><g>
-        <rect x="252" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.400s; transform-origin:257.5px 33.5px"/>
+        <rect x="252" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.400s; transform-origin:257.5px 33.5px"/>
         <rect x="252" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.400s; transform-origin:257.5px 33.5px"/>
       </g><g>
-        <rect x="252" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.470s; transform-origin:257.5px 47.5px"/>
+        <rect x="252" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.470s; transform-origin:257.5px 47.5px"/>
         <rect x="252" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.470s; transform-origin:257.5px 47.5px"/>
       </g><g>
         <rect x="252" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.540s; transform-origin:257.5px 61.5px"/>
@@ -432,10 +432,10 @@
         <rect x="252" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.610s; transform-origin:257.5px 75.5px"/>
         <rect x="252" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.610s; transform-origin:257.5px 75.5px"/>
       </g><g>
-        <rect x="252" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.680s; transform-origin:257.5px 89.5px"/>
+        <rect x="252" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.680s; transform-origin:257.5px 89.5px"/>
         <rect x="252" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.680s; transform-origin:257.5px 89.5px"/>
       </g><g>
-        <rect x="266" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:1.330s; transform-origin:271.5px 5.5px"/>
+        <rect x="266" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.330s; transform-origin:271.5px 5.5px"/>
         <rect x="266" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:1.330s; transform-origin:271.5px 5.5px"/>
       </g><g>
         <rect x="266" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:1.400s; transform-origin:271.5px 19.5px"/>
@@ -819,7 +819,7 @@
         <rect x="518" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.660s; transform-origin:523.5px 19.5px"/>
         <rect x="518" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.660s; transform-origin:523.5px 19.5px"/>
       </g><g>
-        <rect x="518" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.730s; transform-origin:523.5px 33.5px"/>
+        <rect x="518" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:2.730s; transform-origin:523.5px 33.5px"/>
         <rect x="518" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.730s; transform-origin:523.5px 33.5px"/>
       </g><g>
         <rect x="518" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.800s; transform-origin:523.5px 47.5px"/>
@@ -828,7 +828,7 @@
         <rect x="518" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.870s; transform-origin:523.5px 61.5px"/>
         <rect x="518" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.870s; transform-origin:523.5px 61.5px"/>
       </g><g>
-        <rect x="518" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.940s; transform-origin:523.5px 75.5px"/>
+        <rect x="518" y="70" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:2.940s; transform-origin:523.5px 75.5px"/>
         <rect x="518" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.940s; transform-origin:523.5px 75.5px"/>
       </g><g>
         <rect x="518" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.010s; transform-origin:523.5px 89.5px"/>
@@ -837,10 +837,10 @@
         <rect x="532" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.660s; transform-origin:537.5px 5.5px"/>
         <rect x="532" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.660s; transform-origin:537.5px 5.5px"/>
       </g><g>
-        <rect x="532" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.730s; transform-origin:537.5px 19.5px"/>
+        <rect x="532" y="14" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:2.730s; transform-origin:537.5px 19.5px"/>
         <rect x="532" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.730s; transform-origin:537.5px 19.5px"/>
       </g><g>
-        <rect x="532" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:2.800s; transform-origin:537.5px 33.5px"/>
+        <rect x="532" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.800s; transform-origin:537.5px 33.5px"/>
         <rect x="532" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.800s; transform-origin:537.5px 33.5px"/>
       </g><g>
         <rect x="532" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.870s; transform-origin:537.5px 47.5px"/>
@@ -849,7 +849,7 @@
         <rect x="532" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.940s; transform-origin:537.5px 61.5px"/>
         <rect x="532" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.940s; transform-origin:537.5px 61.5px"/>
       </g><g>
-        <rect x="532" y="70" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.010s; transform-origin:537.5px 75.5px"/>
+        <rect x="532" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.010s; transform-origin:537.5px 75.5px"/>
         <rect x="532" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.010s; transform-origin:537.5px 75.5px"/>
       </g><g>
         <rect x="532" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.080s; transform-origin:537.5px 89.5px"/>
@@ -861,16 +861,16 @@
         <rect x="546" y="14" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:2.800s; transform-origin:551.5px 19.5px"/>
         <rect x="546" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.800s; transform-origin:551.5px 19.5px"/>
       </g><g>
-        <rect x="546" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.870s; transform-origin:551.5px 33.5px"/>
+        <rect x="546" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:2.870s; transform-origin:551.5px 33.5px"/>
         <rect x="546" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.870s; transform-origin:551.5px 33.5px"/>
       </g><g>
         <rect x="546" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.940s; transform-origin:551.5px 47.5px"/>
         <rect x="546" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.940s; transform-origin:551.5px 47.5px"/>
       </g><g>
-        <rect x="546" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.010s; transform-origin:551.5px 61.5px"/>
+        <rect x="546" y="56" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.010s; transform-origin:551.5px 61.5px"/>
         <rect x="546" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.010s; transform-origin:551.5px 61.5px"/>
       </g><g>
-        <rect x="546" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.080s; transform-origin:551.5px 75.5px"/>
+        <rect x="546" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.080s; transform-origin:551.5px 75.5px"/>
         <rect x="546" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.080s; transform-origin:551.5px 75.5px"/>
       </g><g>
         <rect x="546" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.150s; transform-origin:551.5px 89.5px"/>
@@ -888,7 +888,7 @@
         <rect x="560" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.010s; transform-origin:565.5px 47.5px"/>
         <rect x="560" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.010s; transform-origin:565.5px 47.5px"/>
       </g><g>
-        <rect x="560" y="56" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.080s; transform-origin:565.5px 61.5px"/>
+        <rect x="560" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.080s; transform-origin:565.5px 61.5px"/>
         <rect x="560" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.080s; transform-origin:565.5px 61.5px"/>
       </g><g>
         <rect x="560" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.150s; transform-origin:565.5px 75.5px"/>
@@ -900,16 +900,16 @@
         <rect x="574" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.870s; transform-origin:579.5px 5.5px"/>
         <rect x="574" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.870s; transform-origin:579.5px 5.5px"/>
       </g><g>
-        <rect x="574" y="14" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:2.940s; transform-origin:579.5px 19.5px"/>
+        <rect x="574" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:2.940s; transform-origin:579.5px 19.5px"/>
         <rect x="574" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.940s; transform-origin:579.5px 19.5px"/>
       </g><g>
         <rect x="574" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.010s; transform-origin:579.5px 33.5px"/>
         <rect x="574" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.010s; transform-origin:579.5px 33.5px"/>
       </g><g>
-        <rect x="574" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.080s; transform-origin:579.5px 47.5px"/>
+        <rect x="574" y="42" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.080s; transform-origin:579.5px 47.5px"/>
         <rect x="574" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.080s; transform-origin:579.5px 47.5px"/>
       </g><g>
-        <rect x="574" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.150s; transform-origin:579.5px 61.5px"/>
+        <rect x="574" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.150s; transform-origin:579.5px 61.5px"/>
         <rect x="574" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.150s; transform-origin:579.5px 61.5px"/>
       </g><g>
         <rect x="574" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.220s; transform-origin:579.5px 75.5px"/>
@@ -921,13 +921,13 @@
         <rect x="588" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:2.940s; transform-origin:593.5px 5.5px"/>
         <rect x="588" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:2.940s; transform-origin:593.5px 5.5px"/>
       </g><g>
-        <rect x="588" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.010s; transform-origin:593.5px 19.5px"/>
+        <rect x="588" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.010s; transform-origin:593.5px 19.5px"/>
         <rect x="588" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.010s; transform-origin:593.5px 19.5px"/>
       </g><g>
-        <rect x="588" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.080s; transform-origin:593.5px 33.5px"/>
+        <rect x="588" y="28" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.080s; transform-origin:593.5px 33.5px"/>
         <rect x="588" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.080s; transform-origin:593.5px 33.5px"/>
       </g><g>
-        <rect x="588" y="42" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.150s; transform-origin:593.5px 47.5px"/>
+        <rect x="588" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.150s; transform-origin:593.5px 47.5px"/>
         <rect x="588" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.150s; transform-origin:593.5px 47.5px"/>
       </g><g>
         <rect x="588" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.220s; transform-origin:593.5px 61.5px"/>
@@ -945,13 +945,13 @@
         <rect x="602" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.080s; transform-origin:607.5px 19.5px"/>
         <rect x="602" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.080s; transform-origin:607.5px 19.5px"/>
       </g><g>
-        <rect x="602" y="28" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.150s; transform-origin:607.5px 33.5px"/>
+        <rect x="602" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.150s; transform-origin:607.5px 33.5px"/>
         <rect x="602" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.150s; transform-origin:607.5px 33.5px"/>
       </g><g>
         <rect x="602" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.220s; transform-origin:607.5px 47.5px"/>
         <rect x="602" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.220s; transform-origin:607.5px 47.5px"/>
       </g><g>
-        <rect x="602" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.290s; transform-origin:607.5px 61.5px"/>
+        <rect x="602" y="56" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.290s; transform-origin:607.5px 61.5px"/>
         <rect x="602" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.290s; transform-origin:607.5px 61.5px"/>
       </g><g>
         <rect x="602" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.360s; transform-origin:607.5px 75.5px"/>
@@ -963,19 +963,19 @@
         <rect x="616" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.080s; transform-origin:621.5px 5.5px"/>
         <rect x="616" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.080s; transform-origin:621.5px 5.5px"/>
       </g><g>
-        <rect x="616" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.150s; transform-origin:621.5px 19.5px"/>
+        <rect x="616" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.150s; transform-origin:621.5px 19.5px"/>
         <rect x="616" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.150s; transform-origin:621.5px 19.5px"/>
       </g><g>
-        <rect x="616" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.220s; transform-origin:621.5px 33.5px"/>
+        <rect x="616" y="28" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.220s; transform-origin:621.5px 33.5px"/>
         <rect x="616" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.220s; transform-origin:621.5px 33.5px"/>
       </g><g>
-        <rect x="616" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.290s; transform-origin:621.5px 47.5px"/>
+        <rect x="616" y="42" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.290s; transform-origin:621.5px 47.5px"/>
         <rect x="616" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.290s; transform-origin:621.5px 47.5px"/>
       </g><g>
-        <rect x="616" y="56" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.360s; transform-origin:621.5px 61.5px"/>
+        <rect x="616" y="56" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.360s; transform-origin:621.5px 61.5px"/>
         <rect x="616" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.360s; transform-origin:621.5px 61.5px"/>
       </g><g>
-        <rect x="616" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.430s; transform-origin:621.5px 75.5px"/>
+        <rect x="616" y="70" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.430s; transform-origin:621.5px 75.5px"/>
         <rect x="616" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:621.5px 75.5px"/>
       </g><g>
         <rect x="616" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.500s; transform-origin:621.5px 89.5px"/>
@@ -984,19 +984,19 @@
         <rect x="630" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.150s; transform-origin:635.5px 5.5px"/>
         <rect x="630" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.150s; transform-origin:635.5px 5.5px"/>
       </g><g>
-        <rect x="630" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.220s; transform-origin:635.5px 19.5px"/>
+        <rect x="630" y="14" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.220s; transform-origin:635.5px 19.5px"/>
         <rect x="630" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.220s; transform-origin:635.5px 19.5px"/>
       </g><g>
-        <rect x="630" y="28" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.290s; transform-origin:635.5px 33.5px"/>
+        <rect x="630" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.290s; transform-origin:635.5px 33.5px"/>
         <rect x="630" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.290s; transform-origin:635.5px 33.5px"/>
       </g><g>
-        <rect x="630" y="42" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.360s; transform-origin:635.5px 47.5px"/>
+        <rect x="630" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.360s; transform-origin:635.5px 47.5px"/>
         <rect x="630" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.360s; transform-origin:635.5px 47.5px"/>
       </g><g>
-        <rect x="630" y="56" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.430s; transform-origin:635.5px 61.5px"/>
+        <rect x="630" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.430s; transform-origin:635.5px 61.5px"/>
         <rect x="630" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:635.5px 61.5px"/>
       </g><g>
-        <rect x="630" y="70" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.500s; transform-origin:635.5px 75.5px"/>
+        <rect x="630" y="70" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.500s; transform-origin:635.5px 75.5px"/>
         <rect x="630" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:635.5px 75.5px"/>
       </g><g>
         <rect x="630" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.570s; transform-origin:635.5px 89.5px"/>
@@ -1005,19 +1005,19 @@
         <rect x="644" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.220s; transform-origin:649.5px 5.5px"/>
         <rect x="644" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.220s; transform-origin:649.5px 5.5px"/>
       </g><g>
-        <rect x="644" y="14" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.290s; transform-origin:649.5px 19.5px"/>
+        <rect x="644" y="14" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.290s; transform-origin:649.5px 19.5px"/>
         <rect x="644" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.290s; transform-origin:649.5px 19.5px"/>
       </g><g>
         <rect x="644" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.360s; transform-origin:649.5px 33.5px"/>
         <rect x="644" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.360s; transform-origin:649.5px 33.5px"/>
       </g><g>
-        <rect x="644" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.430s; transform-origin:649.5px 47.5px"/>
+        <rect x="644" y="42" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.430s; transform-origin:649.5px 47.5px"/>
         <rect x="644" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:649.5px 47.5px"/>
       </g><g>
-        <rect x="644" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.500s; transform-origin:649.5px 61.5px"/>
+        <rect x="644" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.500s; transform-origin:649.5px 61.5px"/>
         <rect x="644" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:649.5px 61.5px"/>
       </g><g>
-        <rect x="644" y="70" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.570s; transform-origin:649.5px 75.5px"/>
+        <rect x="644" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.570s; transform-origin:649.5px 75.5px"/>
         <rect x="644" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.570s; transform-origin:649.5px 75.5px"/>
       </g><g>
         <rect x="644" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.640s; transform-origin:649.5px 89.5px"/>
@@ -1026,19 +1026,19 @@
         <rect x="658" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.290s; transform-origin:663.5px 5.5px"/>
         <rect x="658" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.290s; transform-origin:663.5px 5.5px"/>
       </g><g>
-        <rect x="658" y="14" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.360s; transform-origin:663.5px 19.5px"/>
+        <rect x="658" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.360s; transform-origin:663.5px 19.5px"/>
         <rect x="658" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.360s; transform-origin:663.5px 19.5px"/>
       </g><g>
-        <rect x="658" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.430s; transform-origin:663.5px 33.5px"/>
+        <rect x="658" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.430s; transform-origin:663.5px 33.5px"/>
         <rect x="658" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:663.5px 33.5px"/>
       </g><g>
-        <rect x="658" y="42" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.500s; transform-origin:663.5px 47.5px"/>
+        <rect x="658" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.500s; transform-origin:663.5px 47.5px"/>
         <rect x="658" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:663.5px 47.5px"/>
       </g><g>
         <rect x="658" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.570s; transform-origin:663.5px 61.5px"/>
         <rect x="658" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.570s; transform-origin:663.5px 61.5px"/>
       </g><g>
-        <rect x="658" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.640s; transform-origin:663.5px 75.5px"/>
+        <rect x="658" y="70" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.640s; transform-origin:663.5px 75.5px"/>
         <rect x="658" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:663.5px 75.5px"/>
       </g><g>
         <rect x="658" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.710s; transform-origin:663.5px 89.5px"/>
@@ -1047,19 +1047,19 @@
         <rect x="672" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.360s; transform-origin:677.5px 5.5px"/>
         <rect x="672" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.360s; transform-origin:677.5px 5.5px"/>
       </g><g>
-        <rect x="672" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.430s; transform-origin:677.5px 19.5px"/>
+        <rect x="672" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.430s; transform-origin:677.5px 19.5px"/>
         <rect x="672" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:677.5px 19.5px"/>
       </g><g>
-        <rect x="672" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.500s; transform-origin:677.5px 33.5px"/>
+        <rect x="672" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.500s; transform-origin:677.5px 33.5px"/>
         <rect x="672" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:677.5px 33.5px"/>
       </g><g>
-        <rect x="672" y="42" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.570s; transform-origin:677.5px 47.5px"/>
+        <rect x="672" y="42" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.570s; transform-origin:677.5px 47.5px"/>
         <rect x="672" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.570s; transform-origin:677.5px 47.5px"/>
       </g><g>
         <rect x="672" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.640s; transform-origin:677.5px 61.5px"/>
         <rect x="672" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:677.5px 61.5px"/>
       </g><g>
-        <rect x="672" y="70" width="11" height="11" rx="2.5" fill="#8c2d6f" class="base" style="animation-delay:3.710s; transform-origin:677.5px 75.5px"/>
+        <rect x="672" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.710s; transform-origin:677.5px 75.5px"/>
         <rect x="672" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.710s; transform-origin:677.5px 75.5px"/>
       </g><g>
         <rect x="672" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.780s; transform-origin:677.5px 89.5px"/>
@@ -1068,13 +1068,13 @@
         <rect x="686" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.430s; transform-origin:691.5px 5.5px"/>
         <rect x="686" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.430s; transform-origin:691.5px 5.5px"/>
       </g><g>
-        <rect x="686" y="14" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.500s; transform-origin:691.5px 19.5px"/>
+        <rect x="686" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.500s; transform-origin:691.5px 19.5px"/>
         <rect x="686" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:691.5px 19.5px"/>
       </g><g>
         <rect x="686" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.570s; transform-origin:691.5px 33.5px"/>
         <rect x="686" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.570s; transform-origin:691.5px 33.5px"/>
       </g><g>
-        <rect x="686" y="42" width="11" height="11" rx="2.5" fill="#c23a86" class="base" style="animation-delay:3.640s; transform-origin:691.5px 47.5px"/>
+        <rect x="686" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.640s; transform-origin:691.5px 47.5px"/>
         <rect x="686" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:691.5px 47.5px"/>
       </g><g>
         <rect x="686" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.710s; transform-origin:691.5px 61.5px"/>
@@ -1083,16 +1083,16 @@
         <rect x="686" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.780s; transform-origin:691.5px 75.5px"/>
         <rect x="686" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.780s; transform-origin:691.5px 75.5px"/>
       </g><g>
-        <rect x="686" y="84" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.850s; transform-origin:691.5px 89.5px"/>
+        <rect x="686" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.850s; transform-origin:691.5px 89.5px"/>
         <rect x="686" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.850s; transform-origin:691.5px 89.5px"/>
       </g><g>
-        <rect x="700" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.500s; transform-origin:705.5px 5.5px"/>
+        <rect x="700" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.500s; transform-origin:705.5px 5.5px"/>
         <rect x="700" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.500s; transform-origin:705.5px 5.5px"/>
       </g><g>
-        <rect x="700" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.570s; transform-origin:705.5px 19.5px"/>
+        <rect x="700" y="14" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.570s; transform-origin:705.5px 19.5px"/>
         <rect x="700" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.570s; transform-origin:705.5px 19.5px"/>
       </g><g>
-        <rect x="700" y="28" width="11" height="11" rx="2.5" fill="#5b2552" class="base" style="animation-delay:3.640s; transform-origin:705.5px 33.5px"/>
+        <rect x="700" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.640s; transform-origin:705.5px 33.5px"/>
         <rect x="700" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:705.5px 33.5px"/>
       </g><g>
         <rect x="700" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.710s; transform-origin:705.5px 47.5px"/>
@@ -1101,19 +1101,19 @@
         <rect x="700" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.780s; transform-origin:705.5px 61.5px"/>
         <rect x="700" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.780s; transform-origin:705.5px 61.5px"/>
       </g><g>
-        <rect x="700" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.850s; transform-origin:705.5px 75.5px"/>
+        <rect x="700" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.850s; transform-origin:705.5px 75.5px"/>
         <rect x="700" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.850s; transform-origin:705.5px 75.5px"/>
       </g><g>
         <rect x="700" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.920s; transform-origin:705.5px 89.5px"/>
         <rect x="700" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.920s; transform-origin:705.5px 89.5px"/>
       </g><g>
-        <rect x="714" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.570s; transform-origin:719.5px 5.5px"/>
+        <rect x="714" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.570s; transform-origin:719.5px 5.5px"/>
         <rect x="714" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.570s; transform-origin:719.5px 5.5px"/>
       </g><g>
-        <rect x="714" y="14" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.640s; transform-origin:719.5px 19.5px"/>
+        <rect x="714" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.640s; transform-origin:719.5px 19.5px"/>
         <rect x="714" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:719.5px 19.5px"/>
       </g><g>
-        <rect x="714" y="28" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.710s; transform-origin:719.5px 33.5px"/>
+        <rect x="714" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.710s; transform-origin:719.5px 33.5px"/>
         <rect x="714" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.710s; transform-origin:719.5px 33.5px"/>
       </g><g>
         <rect x="714" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.780s; transform-origin:719.5px 47.5px"/>
@@ -1128,25 +1128,7 @@
         <rect x="714" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.990s; transform-origin:719.5px 89.5px"/>
         <rect x="714" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.990s; transform-origin:719.5px 89.5px"/>
       </g><g>
-        <rect x="728" y="0" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.640s; transform-origin:733.5px 5.5px"/>
+        <rect x="728" y="0" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.640s; transform-origin:733.5px 5.5px"/>
         <rect x="728" y="0" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.640s; transform-origin:733.5px 5.5px"/>
-      </g><g>
-        <rect x="728" y="14" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.710s; transform-origin:733.5px 19.5px"/>
-        <rect x="728" y="14" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.710s; transform-origin:733.5px 19.5px"/>
-      </g><g>
-        <rect x="728" y="28" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.780s; transform-origin:733.5px 33.5px"/>
-        <rect x="728" y="28" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.780s; transform-origin:733.5px 33.5px"/>
-      </g><g>
-        <rect x="728" y="42" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.850s; transform-origin:733.5px 47.5px"/>
-        <rect x="728" y="42" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.850s; transform-origin:733.5px 47.5px"/>
-      </g><g>
-        <rect x="728" y="56" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.920s; transform-origin:733.5px 61.5px"/>
-        <rect x="728" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.920s; transform-origin:733.5px 61.5px"/>
-      </g><g>
-        <rect x="728" y="70" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:3.990s; transform-origin:733.5px 75.5px"/>
-        <rect x="728" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.990s; transform-origin:733.5px 75.5px"/>
-      </g><g>
-        <rect x="728" y="84" width="11" height="11" rx="2.5" fill="#301e36" class="base" style="animation-delay:4.060s; transform-origin:733.5px 89.5px"/>
-        <rect x="728" y="84" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:4.060s; transform-origin:733.5px 89.5px"/>
       </g>
 </svg>
