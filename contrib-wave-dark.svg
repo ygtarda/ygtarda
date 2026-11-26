@@ -1142,5 +1142,8 @@
       </g><g>
         <rect x="728" y="56" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.920s; transform-origin:733.5px 61.5px"/>
         <rect x="728" y="56" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.920s; transform-origin:733.5px 61.5px"/>
+      </g><g>
+        <rect x="728" y="70" width="11" height="11" rx="2.5" fill="#161b22" class="base" style="animation-delay:3.990s; transform-origin:733.5px 75.5px"/>
+        <rect x="728" y="70" width="11" height="11" rx="2.5" fill="url(#waveGrad)" filter="url(#glow)" class="wave" style="animation-delay:3.990s; transform-origin:733.5px 75.5px"/>
       </g>
 </svg>
